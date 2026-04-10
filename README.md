@@ -23,8 +23,8 @@ Pandas
 NumPy
 Scikit-learn
 NLTK / SpaCy
-Matplotlib / Seaborn
-Streamlit / Flask (optional UI)
+Matplotlib
+Streamlit
 ⚙️ How It Works
 Upload Resume
 Enter Job Description
