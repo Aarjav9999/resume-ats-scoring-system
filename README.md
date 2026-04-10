@@ -22,7 +22,7 @@ Python
 Pandas
 NumPy
 Scikit-learn
-NLTK / SpaCy
+NLTK /SpaCy
 Matplotlib
 Streamlit
 ⚙️ How It Works
